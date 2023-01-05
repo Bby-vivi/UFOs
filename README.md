@@ -5,16 +5,26 @@
 ## Tools
 In order to accomplish our goals we used the following resources/tools:
 
-### Sofware/Sources
+### Software/Sources
   1. JavaScript/ ES6 
   2. HTML/CSS
   3. VS code
   4. Bootstrap
   5. data.js
   
-  
-![nasa](https://user-images.githubusercontent.com/114452770/210671054-dc219b4b-9629-43ec-980e-20498dfc2336.jpg)
+ ## Summary 
+>The data sources we need to perform our task was using the data.js and app.js. The information will provide more in-depth analysis of UFP sightings which allows users to filter with multiples criteria.
+The filter section has the ability to search by:
 
+*Date 
+
+*City
+
+*State 
+
+*Country
+
+*Shape
 
 ![Search Filter](https://user-images.githubusercontent.com/114452770/210671070-cefcc881-15cd-453c-b6b5-a1c23ddd8ae2.PNG)
 
