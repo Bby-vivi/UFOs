@@ -30,3 +30,5 @@ The filter section has the ability to search by:
 
 
 ![Web screenshot](https://user-images.githubusercontent.com/114452770/210671101-fbe3eda4-8877-4583-830a-1b5881f97b4e.PNG)
+
+>In conclusion, we created and very user friendly webpage for UFO’s sightings. This webpage has the ability to add future data or past data, if needed. Easily to alter if requested.   
