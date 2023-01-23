@@ -58,7 +58,8 @@ let filterId = changedElement.attr("id");
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    let date = d3.select("#datetime").property("value");  //this tells d3 to look for date values on the webpage and hold it in the "date" variable
+    let date = d3.select("#datetime").property("value"); 
+     //this tells d3 to look for date values on the webpage and hold it in the "date" variable
       if (date) {
         filteredData = filteredData.filter(row=> row.datetime ===date);
         }
@@ -84,7 +85,7 @@ let filterId = changedElement.attr("id");
   }
   
   // 2. Attach an event to listen for changes to each filter
-  d3.selectAll("inout").on("change", updateFilters);
+  d3.selectAll("input").on("change", updateFilters);
   
   // Build the table when the page loads
   buildTable(tableData);
